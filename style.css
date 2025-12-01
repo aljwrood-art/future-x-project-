@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 100%;
+}
+
+.img-Love Yourself 💕.jpeg {
+display: none;
+}
+
+.img-info {
+    width: 100% ;
+}
+ 
+.img-info h2 {
+   padding:30px  30px  20px ;
+font-family: arial;
+font-size: 50px;
+color: blueviolet;
+line-height:44px ;
+}
+
+.img-info p {
+   padding:0px  30px  20px ;
+font-family: arial;
+font-size: 16px;
+color: blueviolet;
+line-height: 24px;
+}
+
+
+.img--NOT FOR OTHERS.jpg{
+    width: 100%;
+}
+
+@media only screen and (min-width: 768px){
+
+}
